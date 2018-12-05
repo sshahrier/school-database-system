@@ -9,7 +9,7 @@ As a database designer I developed a capstone project that encomposses the requi
 ### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-- git clone “https://github.com/sshahrier/farmingdale-shuttlebus.git”
+- git clone “https://github.com/sshahrier/school-database-system.git”
 - Run the `.erd` for diagrams and `.sql` files look into the development of our project. We have also included a Project Report in `.docx` as a technical document for frame of reference.
 
 ### Prerequisites
