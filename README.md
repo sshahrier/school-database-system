@@ -1,4 +1,4 @@
-# Highline University’s Mentor Program (HUMP) Database System
+# Highline University’s Mentor Program (HUMP) <br />Database System
 
 ![](readme-img.PNG)
 
