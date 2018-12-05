@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 There are no additional installation of packages or libraries required for this project all you require is a MySQL Workbench, ER Assistant Tool, and Microsoft Office Word.
 
-## Contributor
+## Contributors
 - [Sayem Shahrier](https://github.com/sshahrier)
 - [Justin Beach](https://www.linkedin.com/in/justin-beach-99273513a/)
 
