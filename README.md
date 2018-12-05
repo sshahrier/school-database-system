@@ -1,6 +1,6 @@
 # Highline University’s Mentor Program (HUMP) <br />Database System
 
-![](readme-img.PNG)
+![](images/readme-img.PNG)
 
 ## Project Description
 
